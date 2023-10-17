@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PokeAPILearn/static/css/main.2e34ab7c.css",
+    "main.js": "/PokeAPILearn/static/js/main.04cc1d96.js",
+    "static/js/787.7329ac45.chunk.js": "/PokeAPILearn/static/js/787.7329ac45.chunk.js",
+    "index.html": "/PokeAPILearn/index.html",
+    "main.2e34ab7c.css.map": "/PokeAPILearn/static/css/main.2e34ab7c.css.map",
+    "main.04cc1d96.js.map": "/PokeAPILearn/static/js/main.04cc1d96.js.map",
+    "787.7329ac45.chunk.js.map": "/PokeAPILearn/static/js/787.7329ac45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e34ab7c.css",
+    "static/js/main.04cc1d96.js"
+  ]
+}

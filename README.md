@@ -1,2 +1,3 @@
 # PokeAPILearn
-Poke API learn form https://www.youtube.com/watch?v=Iz5iNOMCIjY
+Poke API learn from 
+https://www.youtube.com/watch?v=Iz5iNOMCIjY
